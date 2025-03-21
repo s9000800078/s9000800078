@@ -1,3 +1,4 @@
+![logo](https://github.com/s9000800078/s9000800078/blob/main/1741040210887.jpeg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shah muhammad niz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shah muhammad niz" height="30" width="40" /></a>
